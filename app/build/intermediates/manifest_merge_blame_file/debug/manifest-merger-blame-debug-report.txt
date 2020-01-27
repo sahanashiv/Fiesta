@@ -1,0 +1,179 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fiesta"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:13:5-79
+13-->[com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:13:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:14:5-67
+14-->[com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:14:22-64
+15
+16    <application
+16-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:5:5-28:19
+17        android:allowBackup="true"
+17-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:6:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/478b79604eaaf934858ce3739dce1708/core-1.1.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@drawable/college_image_icon_background"
+20-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:7:9-63
+21        android:label="@string/app_name"
+21-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:8:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:9:9-54
+23        android:supportsRtl="true"
+23-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:10:9-35
+24        android:testOnly="true"
+25        android:theme="@style/NoTheme" >
+25-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:11:9-39
+26        <activity android:name="com.example.fiesta.EventDisplayActivity" />
+26-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:12:9-67
+26-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:12:19-55
+27        <activity android:name="com.example.fiesta.FestUpdateActivity" />
+27-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:13:9-56
+27-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:13:19-53
+28        <activity android:name="com.example.fiesta.AddEvent" >
+28-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:14:9-16:20
+28-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:14:19-43
+29        </activity>
+30        <activity android:name="com.example.fiesta.CollegeFragement" />
+30-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:17:9-54
+30-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:17:19-51
+31        <activity android:name="com.example.fiesta.SignupActivity" />
+31-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:18:9-52
+31-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:18:19-49
+32        <activity android:name="com.example.fiesta.HomeActivity" />
+32-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:19:9-50
+32-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:19:19-47
+33        <activity android:name="com.example.fiesta.LoginActivity" />
+33-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:20:9-51
+33-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:20:19-48
+34        <activity android:name="com.example.fiesta.MainActivity" >
+34-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:21:9-27:20
+34-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:21:19-47
+35            <intent-filter>
+35-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:22:13-26:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:23:17-69
+36-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:23:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:25:17-77
+38-->/home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:25:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:24:9-31:50
+42            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+42-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:25:13-85
+43            android:excludeFromRecents="true"
+43-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:26:13-46
+44            android:exported="true"
+44-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:27:13-36
+45            android:launchMode="singleTask"
+45-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:28:13-44
+46            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+46-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:29:13-102
+47            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+47-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:30:13-72
+48
+49        <service
+49-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:33:9-39:19
+50            android:name="com.google.firebase.components.ComponentDiscoveryService"
+50-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:34:13-84
+51            android:directBootAware="true"
+51-->[com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+52            android:exported="false" >
+52-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:35:13-37
+53            <meta-data
+53-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:36:13-38:85
+54                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+54-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:37:17-109
+55                android:value="com.google.firebase.components.ComponentRegistrar" />
+55-->[com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:38:17-82
+56            <meta-data
+56-->[com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:20:13-22:85
+57                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+57-->[com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:21:17-111
+58                android:value="com.google.firebase.components.ComponentRegistrar" />
+58-->[com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:22:17-82
+59            <meta-data
+59-->[com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:33:13-35:85
+60                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+60-->[com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:34:17-107
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:35:17-82
+62        </service>
+63
+64        <provider
+64-->[com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+65            android:name="com.squareup.picasso.PicassoProvider"
+65-->[com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+66            android:authorities="com.example.fiesta.com.squareup.picasso"
+66-->[com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+67            android:exported="false" />
+67-->[com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+68
+69        <activity
+69-->[com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+70            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+70-->[com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+71            android:excludeFromRecents="true"
+71-->[com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+72            android:exported="false"
+72-->[com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+73            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+73-->[com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+74        <!--
+75            Service handling Google Sign-In user revocation. For apps that do not integrate with
+76            Google Sign-In, this service will never be started.
+77        -->
+78        <service
+78-->[com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+79            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+79-->[com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+80            android:exported="true"
+80-->[com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+81            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+81-->[com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+82
+83        <activity
+83-->[com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+84            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+84-->[com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+85            android:exported="false"
+85-->[com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+86            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+86-->[com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+87
+88        <provider
+88-->[com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+89            android:name="com.google.firebase.provider.FirebaseInitProvider"
+89-->[com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
+90            android:authorities="com.example.fiesta.firebaseinitprovider"
+90-->[com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+91            android:exported="false"
+91-->[com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+92            android:initOrder="100" />
+92-->[com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+93
+94        <meta-data
+94-->[com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+95            android:name="com.google.android.gms.version"
+95-->[com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+96            android:value="@integer/google_play_services_version" />
+96-->[com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+97    </application>
+98
+99</manifest>

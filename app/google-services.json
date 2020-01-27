@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "219836697676",
+    "firebase_url": "https://fiesta-f4669.firebaseio.com",
+    "project_id": "fiesta-f4669",
+    "storage_bucket": "fiesta-f4669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219836697676:android:bba774178526df100178e9",
+        "android_client_info": {
+          "package_name": "com.example.fiesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219836697676-qb4v0ijmh7ol82s8p1i03p6fjksj2mlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fiesta",
+            "certificate_hash": "e3c190f3187a085b7ce94e85b9b7ff2a76dca973"
+          }
+        },
+        {
+          "client_id": "219836697676-v0j54dt2vh2c5mc6uo653al4r4ecpiik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdzNEbBIEm_VAfD60XrIyoXoYmZU1oq1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219836697676-v0j54dt2vh2c5mc6uo653al4r4ecpiik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

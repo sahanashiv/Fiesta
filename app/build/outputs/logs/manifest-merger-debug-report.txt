@@ -1,0 +1,393 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.material:material:1.2.0-alpha01] /home/negi/.gradle/caches/transforms-2/files-2.1/6bb9c2f87828f8787bc3e59811fe1922/material-1.2.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8b7353a4da394401f2770946eabec9bd/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/negi/.gradle/caches/transforms-2/files-2.1/e88b13ae8ecbb63da81ec85463301b9c/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5cb3613512f670bbb230666de5d1e4f6/gridlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/2737548a0eafd53d77f17cb1034ae235/firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/d9a60c16c6634a349294b5aeaaa6cc62/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/3e4d7ee9cbf5a1317a748d884e7064ce/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/596060fa59581d05bfda6f1380aa8ace/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta05] /home/negi/.gradle/caches/transforms-2/files-2.1/12552c4e230b4f4ac1f22f474bcc5b30/viewpager2-1.0.0-beta05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/d9825d76f6bbee29e3578706a3ba71a2/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ef2b9acfed30db7d42005e1e08b46c79/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/506ff032f2e3a2422899c5a2a3d9de51/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/6effe2cbf16174b668e3e1d0cfddf644/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/negi/.gradle/caches/transforms-2/files-2.1/9840fa8dec2cde7aa272572f6a36cb74/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/cdf540cbacfb24d2fe295486341b42ae/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/33f3f4591626067cc73772904b9eb738/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/3e16f019840cc70306750a8dc25d7f2e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/b71106a2dbab772943f41fdb129a6c36/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/a8c2bb309b0f0e205d5df49a5c8f0224/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/1428b5f834224b054b3655b7bb9f4141/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ea195e7a4deac63f8932aeb483676170/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta05] /home/negi/.gradle/caches/transforms-2/files-2.1/9d551d6a32ce44cdc0528485d21b4742/recyclerview-1.1.0-beta05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/0916f73c87a1ba2271fe392cf50cdbd5/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/3c570a0a75f7bdf20ec22b30af040369/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f4af7f1a3c26c4b61981ff2f9af835ae/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/a1079c7fbe6a9a0a1066925b6507eb74/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/478b79604eaaf934858ce3739dce1708/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/a5cc52281db0c619acb263f3ec9583e2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/b0258761e09ba69bc3c7bc9f6c71d3b2/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/9d181ea93f766b111b5938a44e6e4827/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/9c865c57a8ab83eac8e7c02e9f838480/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/6352da2278f4887fa4506d4f94107bca/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/d5c3ac55f54e7be18a5143c57b0a7ada/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/c08fbd2ff03eaf1eb73b66b76b15a082/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ede779bc2682400490f54d1fd5fcec7d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/79c1d5c82fe746b1739cbdd05686da02/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/7eeeb2910d1096ef30c55533f294f81f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8a422b90bfe2308ee62c0eaef9ccdad3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/b9053f481f6d09d6b0325c41025a2cd9/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/197553ab9f2fbb988661865532230777/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ff12cc281f87118c6dbeead31942afb5/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/83c1e2b3ae911aa73c899a2445cf560a/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8c365c9fd45d52b75ed6b0836cb16898/protolite-well-known-types-17.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] /home/negi/.gradle/caches/transforms-2/files-2.1/83d7f5af9f167d273500c6455097d4ff/grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.google.android.material:material:1.2.0-alpha01] /home/negi/.gradle/caches/transforms-2/files-2.1/6bb9c2f87828f8787bc3e59811fe1922/material-1.2.0-alpha01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha01] /home/negi/.gradle/caches/transforms-2/files-2.1/6bb9c2f87828f8787bc3e59811fe1922/material-1.2.0-alpha01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/negi/.gradle/caches/transforms-2/files-2.1/e88b13ae8ecbb63da81ec85463301b9c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/negi/.gradle/caches/transforms-2/files-2.1/e88b13ae8ecbb63da81ec85463301b9c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/2737548a0eafd53d77f17cb1034ae235/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/2737548a0eafd53d77f17cb1034ae235/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/596060fa59581d05bfda6f1380aa8ace/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/596060fa59581d05bfda6f1380aa8ace/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/478b79604eaaf934858ce3739dce1708/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/478b79604eaaf934858ce3739dce1708/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/6352da2278f4887fa4506d4f94107bca/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/6352da2278f4887fa4506d4f94107bca/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/478b79604eaaf934858ce3739dce1708/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:7:9-63
+	android:allowBackup
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:11:9-39
+activity#com.example.fiesta.EventDisplayActivity
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:12:9-67
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:12:19-55
+activity#com.example.fiesta.FestUpdateActivity
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:13:9-56
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:13:19-53
+activity#com.example.fiesta.AddEvent
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:14:9-16:20
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:14:19-43
+activity#com.example.fiesta.CollegeFragement
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:17:19-51
+activity#com.example.fiesta.SignupActivity
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:18:9-52
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:18:19-49
+activity#com.example.fiesta.HomeActivity
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.example.fiesta.LoginActivity
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:20:19-48
+activity#com.example.fiesta.MainActivity
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.0-alpha01] /home/negi/.gradle/caches/transforms-2/files-2.1/6bb9c2f87828f8787bc3e59811fe1922/material-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha01] /home/negi/.gradle/caches/transforms-2/files-2.1/6bb9c2f87828f8787bc3e59811fe1922/material-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8b7353a4da394401f2770946eabec9bd/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8b7353a4da394401f2770946eabec9bd/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/negi/.gradle/caches/transforms-2/files-2.1/e88b13ae8ecbb63da81ec85463301b9c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/negi/.gradle/caches/transforms-2/files-2.1/e88b13ae8ecbb63da81ec85463301b9c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5cb3613512f670bbb230666de5d1e4f6/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5cb3613512f670bbb230666de5d1e4f6/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/2737548a0eafd53d77f17cb1034ae235/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/2737548a0eafd53d77f17cb1034ae235/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/d9a60c16c6634a349294b5aeaaa6cc62/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/d9a60c16c6634a349294b5aeaaa6cc62/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/3e4d7ee9cbf5a1317a748d884e7064ce/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/3e4d7ee9cbf5a1317a748d884e7064ce/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/596060fa59581d05bfda6f1380aa8ace/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/596060fa59581d05bfda6f1380aa8ace/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta05] /home/negi/.gradle/caches/transforms-2/files-2.1/12552c4e230b4f4ac1f22f474bcc5b30/viewpager2-1.0.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta05] /home/negi/.gradle/caches/transforms-2/files-2.1/12552c4e230b4f4ac1f22f474bcc5b30/viewpager2-1.0.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/d9825d76f6bbee29e3578706a3ba71a2/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/d9825d76f6bbee29e3578706a3ba71a2/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ef2b9acfed30db7d42005e1e08b46c79/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ef2b9acfed30db7d42005e1e08b46c79/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/506ff032f2e3a2422899c5a2a3d9de51/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/506ff032f2e3a2422899c5a2a3d9de51/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/6effe2cbf16174b668e3e1d0cfddf644/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/6effe2cbf16174b668e3e1d0cfddf644/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/negi/.gradle/caches/transforms-2/files-2.1/9840fa8dec2cde7aa272572f6a36cb74/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/negi/.gradle/caches/transforms-2/files-2.1/9840fa8dec2cde7aa272572f6a36cb74/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/cdf540cbacfb24d2fe295486341b42ae/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/cdf540cbacfb24d2fe295486341b42ae/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/33f3f4591626067cc73772904b9eb738/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/33f3f4591626067cc73772904b9eb738/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/3e16f019840cc70306750a8dc25d7f2e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/3e16f019840cc70306750a8dc25d7f2e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/b71106a2dbab772943f41fdb129a6c36/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/b71106a2dbab772943f41fdb129a6c36/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/a8c2bb309b0f0e205d5df49a5c8f0224/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/a8c2bb309b0f0e205d5df49a5c8f0224/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/1428b5f834224b054b3655b7bb9f4141/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/1428b5f834224b054b3655b7bb9f4141/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ea195e7a4deac63f8932aeb483676170/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ea195e7a4deac63f8932aeb483676170/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta05] /home/negi/.gradle/caches/transforms-2/files-2.1/9d551d6a32ce44cdc0528485d21b4742/recyclerview-1.1.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta05] /home/negi/.gradle/caches/transforms-2/files-2.1/9d551d6a32ce44cdc0528485d21b4742/recyclerview-1.1.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/0916f73c87a1ba2271fe392cf50cdbd5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/0916f73c87a1ba2271fe392cf50cdbd5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/3c570a0a75f7bdf20ec22b30af040369/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/3c570a0a75f7bdf20ec22b30af040369/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f4af7f1a3c26c4b61981ff2f9af835ae/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f4af7f1a3c26c4b61981ff2f9af835ae/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/a1079c7fbe6a9a0a1066925b6507eb74/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/a1079c7fbe6a9a0a1066925b6507eb74/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/478b79604eaaf934858ce3739dce1708/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/478b79604eaaf934858ce3739dce1708/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/a5cc52281db0c619acb263f3ec9583e2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/a5cc52281db0c619acb263f3ec9583e2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/b0258761e09ba69bc3c7bc9f6c71d3b2/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/b0258761e09ba69bc3c7bc9f6c71d3b2/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/9d181ea93f766b111b5938a44e6e4827/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/9d181ea93f766b111b5938a44e6e4827/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/9c865c57a8ab83eac8e7c02e9f838480/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/9c865c57a8ab83eac8e7c02e9f838480/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/6352da2278f4887fa4506d4f94107bca/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/6352da2278f4887fa4506d4f94107bca/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/d5c3ac55f54e7be18a5143c57b0a7ada/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/d5c3ac55f54e7be18a5143c57b0a7ada/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/c08fbd2ff03eaf1eb73b66b76b15a082/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/c08fbd2ff03eaf1eb73b66b76b15a082/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ede779bc2682400490f54d1fd5fcec7d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ede779bc2682400490f54d1fd5fcec7d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/79c1d5c82fe746b1739cbdd05686da02/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/79c1d5c82fe746b1739cbdd05686da02/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/7eeeb2910d1096ef30c55533f294f81f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/7eeeb2910d1096ef30c55533f294f81f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8a422b90bfe2308ee62c0eaef9ccdad3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8a422b90bfe2308ee62c0eaef9ccdad3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/b9053f481f6d09d6b0325c41025a2cd9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/b9053f481f6d09d6b0325c41025a2cd9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/197553ab9f2fbb988661865532230777/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/197553ab9f2fbb988661865532230777/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ff12cc281f87118c6dbeead31942afb5/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/ff12cc281f87118c6dbeead31942afb5/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/83c1e2b3ae911aa73c899a2445cf560a/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/83c1e2b3ae911aa73c899a2445cf560a/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8c365c9fd45d52b75ed6b0836cb16898/protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8c365c9fd45d52b75ed6b0836cb16898/protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/negi/.gradle/caches/transforms-2/files-2.1/83d7f5af9f167d273500c6455097d4ff/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/negi/.gradle/caches/transforms-2/files-2.1/83d7f5af9f167d273500c6455097d4ff/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+		ADDED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+		INJECTED from /home/negi/Downloads/Fiesta/Fiesta/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/8aa3d6d048249cc1598139976559bd04/firebase-auth-19.1.0/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:26:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/negi/.gradle/caches/transforms-2/files-2.1/83d7f5af9f167d273500c6455097d4ff/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/negi/.gradle/caches/transforms-2/files-2.1/83d7f5af9f167d273500c6455097d4ff/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:14:22-64
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/488f4778be4d846bbadc39cc4121c0ac/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/44b784fabca10d2710bcf5b818712cb5/firebase-storage-19.1.0/AndroidManifest.xml:34:17-107
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/negi/.gradle/caches/transforms-2/files-2.1/11be3edea76959b736c09bd6a3245359/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/21f6fbdc7f200ea7b6b3cb32cc21a6a4/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/negi/.gradle/caches/transforms-2/files-2.1/5361484794665ae726e7094cda0f326e/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/negi/.gradle/caches/transforms-2/files-2.1/f2f464e7b3c96930b35ca6d6132a388c/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/negi/.gradle/caches/transforms-2/files-2.1/feca2490e0ed9d0b4bb4547e6485ebfe/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
